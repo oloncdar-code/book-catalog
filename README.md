@@ -4,7 +4,6 @@ REST API для управления книжным каталогом с сущ
 Реализованы CRUD-операции, пагинация, фильтрация, связи между сущностями и интеграционные тесты.
 
 ##  Стек технологий
-
 - **NestJS** – серверный фреймворк
 - **TypeORM** – ORM для работы с PostgreSQL
 - **PostgreSQL** – база данных (локальная или Docker)
@@ -125,3 +124,4 @@ nest generate controller <name>
 # Связь
 Автор: Olontseva Daria
 GitHub: oloncdar-code
+
